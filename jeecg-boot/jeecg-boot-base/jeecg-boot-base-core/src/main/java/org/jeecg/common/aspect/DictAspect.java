@@ -416,7 +416,7 @@ public class DictAspect {
      * @return
      */
     private Boolean checkHasDict(List<Object> records){
-        if(oConvertUtils.isNotEmpty(records)){
+        if(oConvertUtils.isNotEmpty(records) && records.size()>0){
             for (Field field : oConvertUtils.getAllFields(records.get(0))) {
                 if (oConvertUtils.isNotEmpty(field.getAnnotation(Dict.class))) {
                     return true;
