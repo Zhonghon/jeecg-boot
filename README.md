@@ -38,8 +38,8 @@ JeecgBoot 提供了一系列`低代码模块`，实现在线开发`真正的零�
 | 项目名                | 说明                     | 传送门                                                                                                                                 |
 |--------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | `jeecg-boot`    | JAVA后台（支持微服务）        | [Github](https://github.com/jeecgboot/jeecg-boot) &nbsp;&nbsp;&nbsp;     [Gitee](https://gitee.com/jeecg/jeecg-boot)  |
-| `ant-design-vue-jeecg`  |vue2前端代码（默认与主项目一起）       |        |
-| `jeecgboot-vue3` | Vue3前端代码 | [Github](https://gitee.com/jeecg/jeecgboot-vue3)   &nbsp;&nbsp;&nbsp;  [Gitee](https://github.com/jeecgboot/jeecgboot-vue3) |
+| `ant-design-vue-jeecg`  |Vue2版前端代码（默认与主项目一起）       |        |
+| `jeecgboot-vue3` | Vue3版前端代码 | [Github](https://gitee.com/jeecg/jeecgboot-vue3)   &nbsp;&nbsp;&nbsp;  [Gitee](https://github.com/jeecgboot/jeecgboot-vue3) |
 
 
 适用项目
@@ -55,7 +55,7 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 
 - 在线演示 ： [Vue2版本](http://boot.jeecg.com) |  [Vue3版本](http://boot3.jeecg.com)
 
-- 开发文档：  [主项目文档](http://doc.jeecg.com) | [vue3文档](http://vue3.jeecg.com)
+- 开发文档：  [主项目文档](http://doc.jeecg.com) | [Vue3文档](http://vue3.jeecg.com)
 
 - 入门视频： [https://space.bilibili.com/454617261/channel/series](https://space.bilibili.com/454617261/channel/series)
 
@@ -63,7 +63,7 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 
 - 微服务开发：  [单体切换为微服务](http://doc.jeecg.com/2704725)
 
-- QQ交流群 ： ⑥730954414、⑤860162132、VUE3群683903138、~~④774126647(满)、③816531124(满)、②769925425(满)、①284271917(满)~~
+- QQ交流群 ： ⑥730954414、VUE3群683903138、⑤860162132(满)、④774126647(满)、③816531124(满)、②769925425(满)、①284271917(满)
 
 
 
